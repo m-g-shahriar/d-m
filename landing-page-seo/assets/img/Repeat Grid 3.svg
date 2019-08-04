@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="217" viewBox="0 0 430 217">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="430" height="217" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21b448"/>
+      <stop offset="1" stop-color="#b8db28"/>
+    </linearGradient>
+  </defs>
+  <g id="Repeat_Grid_3" data-name="Repeat Grid 3" clip-path="url(#clip-path)">
+    <g transform="translate(-234 -1900)">
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="45.5" cy="45.5" r="45.5" transform="translate(357 2011)" opacity="0.32" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="19" cy="19" r="19" transform="translate(626 2079)" opacity="0.32" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="19" cy="19" r="19" transform="translate(234 1900)" opacity="0.32" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

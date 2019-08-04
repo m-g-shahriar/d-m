@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="844.303" height="830.86" viewBox="0 0 844.303 830.86">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="844.303" height="830.86" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="73.192" height="61.426" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21b448"/>
+      <stop offset="1" stop-color="#b8db28"/>
+    </linearGradient>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-959.62 -134.53)">
+      <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(959.62 469.048)" clip-path="url(#clip-path-2)">
+        <path id="Path_1" data-name="Path 1" d="M1273.15,91.892c35.277,6.609,47.035,27.2,66.144,0S1329,41.176,1302.547,45.586,1273.15,91.892,1273.15,91.892Z" transform="translate(-1272.672 -44.581)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Group_2" data-name="Group 2">
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1039.309 230.53)" fill="none" stroke="#707070" stroke-width="7">
+          <ellipse cx="341.732" cy="341.281" rx="341.732" ry="341.281" stroke="none"/>
+          <ellipse cx="341.732" cy="341.281" rx="338.232" ry="337.781" fill="none"/>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1303.498 152.987)" fill="#fff" stroke="#707070" stroke-width="4">
+          <circle cx="77.994" cy="77.994" r="77.994" stroke="none"/>
+          <circle cx="77.994" cy="77.994" r="75.994" fill="none"/>
+        </g>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1303.498 152.987)" fill="#fff" stroke="#707070" stroke-width="4">
+          <circle cx="77.994" cy="77.994" r="77.994" stroke="none"/>
+          <circle cx="77.994" cy="77.994" r="75.994" fill="none"/>
+        </g>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(975.291 487.506)" fill="#fff" stroke="#707070" stroke-width="4">
+          <circle cx="77.994" cy="77.994" r="77.994" stroke="none"/>
+          <circle cx="77.994" cy="77.994" r="75.994" fill="none"/>
+        </g>
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(975.291 487.506)" fill="#fff" stroke="#707070" stroke-width="4">
+          <circle cx="77.994" cy="77.994" r="77.994" stroke="none"/>
+          <circle cx="77.994" cy="77.994" r="75.994" fill="none"/>
+        </g>
+        <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(1303.498 809.401)" fill="#fff" stroke="#707070" stroke-width="4">
+          <circle cx="77.994" cy="77.994" r="77.994" stroke="none"/>
+          <circle cx="77.994" cy="77.994" r="75.994" fill="none"/>
+        </g>
+        <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(1632.607 487.506)" fill="#fff" stroke="#707070" stroke-width="4">
+          <circle cx="77.994" cy="77.994" r="77.994" stroke="none"/>
+          <circle cx="77.994" cy="77.994" r="75.994" fill="none"/>
+        </g>
+        <text id="_1" data-name="1" transform="translate(1365.713 216.84)" fill="#f6be07" font-size="47" font-family="StencilStd, Stencil Std"><tspan x="0" y="0">1</tspan></text>
+        <text id="_1-2" data-name="1" transform="translate(1365.713 216.84)" fill="#f6be07" font-size="47" font-family="StencilStd, Stencil Std"><tspan x="0" y="0">1</tspan></text>
+        <text id="_1-3" data-name="1" transform="translate(1037.506 551.359)" fill="#f6be07" font-size="47" font-family="StencilStd, Stencil Std"><tspan x="0" y="0">1</tspan></text>
+        <text id="_1-4" data-name="1" transform="translate(1037.506 551.359)" fill="#f6be07" font-size="47" font-family="StencilStd, Stencil Std"><tspan x="0" y="0">1</tspan></text>
+        <text id="_1-5" data-name="1" transform="translate(1365.713 880.468)" fill="#f6be07" font-size="47" font-family="StencilStd, Stencil Std"><tspan x="0" y="0">1</tspan></text>
+        <text id="_1-6" data-name="1" transform="translate(1694.822 551.359)" fill="#f6be07" font-size="47" font-family="StencilStd, Stencil Std"><tspan x="0" y="0">1</tspan></text>
+        <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(1287.827 134.53)" clip-path="url(#clip-path-2)">
+          <path id="Path_1-2" data-name="Path 1" d="M1273.15,91.892c35.277,6.609,47.035,27.2,66.144,0S1329,41.176,1302.547,45.586,1273.15,91.892,1273.15,91.892Z" transform="translate(-1272.672 -44.581)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Component_1_9" data-name="Component 1 – 9" transform="translate(1287.827 790.944)" clip-path="url(#clip-path-2)">
+          <path id="Path_1-3" data-name="Path 1" d="M1273.15,91.892c35.277,6.609,47.035,27.2,66.144,0S1329,41.176,1302.547,45.586,1273.15,91.892,1273.15,91.892Z" transform="translate(-1272.672 -44.581)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(1616.936 469.048)" clip-path="url(#clip-path-2)">
+          <path id="Path_1-4" data-name="Path 1" d="M1273.15,91.892c35.277,6.609,47.035,27.2,66.144,0S1329,41.176,1302.547,45.586,1273.15,91.892,1273.15,91.892Z" transform="translate(-1272.672 -44.581)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(1292.678 226.924)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="177.628" height="37.87" stroke="none"/>
+          <rect x="0.5" y="0.5" width="176.628" height="36.87" fill="none"/>
+        </g>
+        <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1626.295 562.344)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="177.628" height="37.87" stroke="none"/>
+          <rect x="0.5" y="0.5" width="176.628" height="36.87" fill="none"/>
+        </g>
+        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(964.471 561.442)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="177.628" height="37.87" stroke="none"/>
+          <rect x="0.5" y="0.5" width="176.628" height="36.87" fill="none"/>
+        </g>
+        <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1292.678 883.338)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="177.628" height="37.87" stroke="none"/>
+          <rect x="0.5" y="0.5" width="176.628" height="36.87" fill="none"/>
+        </g>
+        <text id="TITLE" transform="translate(1347.761 253.432)" fill="#474444" font-size="25" font-family="BradleyHandITC, Bradley Hand ITC"><tspan x="0" y="0">TITLE</tspan></text>
+        <text id="KEYWORD" transform="translate(986.111 586.049)" fill="#474444" font-size="25" font-family="BradleyHandITC, Bradley Hand ITC"><tspan x="0" y="0">KEYWORD</tspan></text>
+        <text id="PPC" transform="translate(1358.5 908.846)" fill="#474444" font-size="24" font-family="BradleyHandITC, Bradley Hand ITC"><tspan x="0" y="0">PPC</tspan></text>
+        <text id="DESCRIPTION" transform="translate(1647.41 585.951)" fill="#474444" font-size="23" font-family="BradleyHandITC, Bradley Hand ITC"><tspan x="0" y="0">DESCRIPTION</tspan></text>
+        <line id="Line_1" data-name="Line 1" y1="443.62" x2="449.932" transform="translate(1072.22 265.245)" fill="none" stroke="#707070" stroke-width="7"/>
+        <line id="Line_2" data-name="Line 2" y1="467.965" x2="467.064" transform="translate(1091.155 282.376)" fill="none" stroke="#707070" stroke-width="8"/>
+        <line id="Line_3" data-name="Line 3" y1="475.179" x2="474.277" transform="translate(1111.894 303.115)" fill="none" stroke="#707070" stroke-width="8"/>
+        <path id="Path_18" data-name="Path 18" d="M0,473.891,476.979-3.924" transform="translate(1142.55 335.961)" fill="none" stroke="#707070" stroke-width="8"/>
+      </g>
+      <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(959.62 469.048)" clip-path="url(#clip-path-2)">
+        <path id="Path_1-5" data-name="Path 1" d="M1273.15,91.892c35.277,6.609,47.035,27.2,66.144,0S1329,41.176,1302.547,45.586,1273.15,91.892,1273.15,91.892Z" transform="translate(-1272.672 -44.581)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

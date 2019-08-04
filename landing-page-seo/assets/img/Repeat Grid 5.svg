@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="849" height="661" viewBox="0 0 849 661">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="849" height="661" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_24" x="0" y="0" width="849" height="661" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect width="37.846" height="275.565" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eb2dd8"/>
+      <stop offset="1" stop-color="#ffa631"/>
+    </linearGradient>
+  </defs>
+  <g id="Repeat_Grid_5" data-name="Repeat Grid 5" clip-path="url(#clip-path)">
+    <g transform="translate(-121.5 -2664.5)">
+      <g transform="matrix(1, 0, 0, 1, 121.5, 2664.5)" filter="url(#Rectangle_24)">
+        <g id="Rectangle_24-2" data-name="Rectangle 24" transform="translate(2.5 5.5)" fill="#fcfcfc" stroke="#707070" stroke-width="1">
+          <rect width="828" height="640" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="827" height="639" rx="9.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(281 2957)" fill="#dedede" stroke="#fff" stroke-width="1">
+        <rect width="37.846" height="130.899" rx="18.923" stroke="none"/>
+        <rect x="0.5" y="0.5" width="36.846" height="129.899" rx="18.423" fill="none"/>
+      </g>
+      <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(366.62 2919.18)" fill="#dedede" stroke="#fff" stroke-width="1">
+        <rect width="37.846" height="168.743" rx="18.923" stroke="none"/>
+        <rect x="0.5" y="0.5" width="36.846" height="167.743" rx="18.423" fill="none"/>
+      </g>
+      <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(452.728 2956.626)" fill="#dedede" stroke="#fff" stroke-width="1">
+        <rect width="37.846" height="131.565" rx="18.923" stroke="none"/>
+        <rect x="0.5" y="0.5" width="36.846" height="130.565" rx="18.423" fill="none"/>
+      </g>
+      <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(535.728 2930.626)" fill="#dedede" stroke="#fff" stroke-width="1">
+        <rect width="37.846" height="157.565" rx="18.923" stroke="none"/>
+        <rect x="0.5" y="0.5" width="36.846" height="156.565" rx="18.423" fill="none"/>
+      </g>
+      <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(618.728 2930.626)" fill="#dedede" stroke="#fff" stroke-width="1">
+        <rect width="37.846" height="157.565" rx="18.923" stroke="none"/>
+        <rect x="0.5" y="0.5" width="36.846" height="156.565" rx="18.423" fill="none"/>
+      </g>
+      <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(689.728 3003.626)" fill="#dedede" stroke="#fff" stroke-width="1">
+        <rect width="37.846" height="84.565" rx="18.923" stroke="none"/>
+        <rect x="0.5" y="0.5" width="36.846" height="83.565" rx="18.423" fill="none"/>
+      </g>
+      <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(760.728 2812.626)" opacity="0.74" clip-path="url(#clip-path-2)">
+        <g id="Rectangle_31" data-name="Rectangle 31" stroke="#fff" stroke-width="1" fill="url(#linear-gradient)">
+          <rect width="37.846" height="275.565" rx="18.923" stroke="none"/>
+          <rect x="0.5" y="0.5" width="36.846" height="274.565" rx="18.423" fill="none"/>
+        </g>
+      </g>
+      <text id="Analytics" transform="translate(171 2742)" fill="#736f6f" font-size="45" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Analytics</tspan></text>
+      <text id="Last_7_days" data-name="Last 7 days" transform="translate(171 2780)" fill="#cfc8c8" font-size="28" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Last 7 days</tspan></text>
+      <text id="Sun" transform="translate(275 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Sun</tspan></text>
+      <text id="Mon" transform="translate(358 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Mon</tspan></text>
+      <text id="Tue" transform="translate(448 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Tue</tspan></text>
+      <text id="Wed" transform="translate(527 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Wed</tspan></text>
+      <text id="Thu" transform="translate(613 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Thu</tspan></text>
+      <text id="Fri" transform="translate(693 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Fri</tspan></text>
+      <text id="Sat" transform="translate(759 3149)" fill="#656565" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Sat</tspan></text>
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="13" cy="13" r="13" transform="translate(188 3222)" opacity="0.75" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="13" cy="13" r="13" transform="translate(687 3222)" fill="#dedede"/>
+      <text id="Goal_Report" data-name="Goal Report" transform="translate(225 3245)" fill="#c9c6c6" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Goal Report</tspan></text>
+      <text id="Avg._Daily" data-name="Avg. Daily" transform="translate(724 3245)" fill="#b8aeae" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Avg. Daily</tspan></text>
+    </g>
+  </g>
+</svg>
